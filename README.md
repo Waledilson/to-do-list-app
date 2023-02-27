@@ -13,3 +13,4 @@ The user can change the order of items in the list of items.
 <br>
 This app was made entirely with jQuery
 <br>
+<img src="todo-list-ss1.png">
